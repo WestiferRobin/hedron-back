@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mu</groupId>
-	<artifactId>realm-rift</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>realm-rift</name>
+	<artifactId>hedron</artifactId>
+	<version>0</version>
+	<name>hedron</name>
 	<description>this is for the rpg prototype</description>
 	<properties>
 		<java.version>17</java.version>

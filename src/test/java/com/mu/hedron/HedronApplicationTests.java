@@ -1,10 +1,10 @@
-package com.mu.realmrift;
+package com.mu.hedron;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RealmRiftApplicationTests {
+class HedronApplicationTests {
 
 	@Test
 	void contextLoads() {
